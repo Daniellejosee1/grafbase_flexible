@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/public"
+		}
+	],
+	"settings": {
+		"vscode-janus-debug.uploadOnSave": [
+			"tailwind.config"
+		]
+	}
+}
